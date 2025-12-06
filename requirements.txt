@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+google-generativeai
+fastapi
+uvicorn
+python-dotenv
+supabase
